@@ -6,7 +6,7 @@ We often use various applications of sorting algorithms in programming functions
 
 
 
-Here we're vsualizing sorting algorithms, using the **matplotlib library.**
+Here we're visualizing sorting algorithms, using the **matplotlib library.**
 
 
 

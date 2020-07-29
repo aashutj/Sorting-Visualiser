@@ -12,11 +12,11 @@ Here we're visualizing sorting algorithms, using the **matplotlib library.**
 
 
 
-Algorithms covererd in this projects are :
+Algorithms covererd in this project are :
 
 
 
-|     Name        | Second Header   |
+|     Name        | Function Name   |
 | -------------   | -------------   |
 | Selection Sort  |  selection_sort |
 | Insertion Sort  |  insertion_sort |

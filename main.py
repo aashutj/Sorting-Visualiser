@@ -18,7 +18,7 @@ algorithms = [s.bubble_sort, s.heap_sort, s.selection_sort,
 
 if len(sys.argv) < 2:
     print('Usage:', 'python', sys.argv[0], 'function_name', '\n')
-    print('Choose from:', '\n')
+    print('Choose from given algorithms:', '\n')
     for algorithm in algorithms:
         print(algorithm.__name__)
     print('\n')
